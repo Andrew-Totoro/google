@@ -6,10 +6,12 @@ li{
 a{
     text-decoration: none;
     font-family: arial,sans-serif;
-    font-size: 13px;
     color: #000;
     opacity: 0.75;
     padding-right: 15px;
+}
+
+.a{
     font-size: 13px;
 }
 
@@ -72,8 +74,10 @@ a:hover{
 
 .butoanele{
     border-radius: 4px;
-    padding-top: 5px;
-    padding-bottom: 5px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
     margin-right: 10px;
     border: 1px solid #ebebeb;
     background-color: #ebebeb;
@@ -88,7 +92,7 @@ a:hover{
     opacity: 0.80;
 }
 
-.footer-buttons{
-    display: block;
-    font-size: 14px;
+.footerbuttons{
+    font-size: 14px !important;
 }
+
