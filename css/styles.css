@@ -13,7 +13,7 @@ a{
     font-size: 13px;
 }
 
-button{
+.signin{
     background-color: #4285f4;
     border: 1px solid #4285f4;
     border-radius: 2px;
@@ -56,9 +56,27 @@ a:hover{
     display: block;
     margin: 0 auto;
     margin-top: 24px;
-    padding-right: 120px;
-    padding-left: 120px;
-    padding-bottom: 20px;
-    border-radius: 20px;
-    border-color: #b3b3b3;
+    padding-right: 180px;
+    padding-left: 180px;
+    padding-bottom: 25px;
+    border-radius: 18px;
+    border-color: #c2c2c2;
+    border: 0.6px solid #c2c2c2;
 }
+
+.buttons{
+    text-align: center;
+    padding-top: 30px;
+    opacity: 0.85;
+}
+
+.butoanele{
+    border-radius: 4px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-right: 10px;
+    border: 1px solid #ebebeb;
+    background-color: #ebebeb;
+    
+}
+
