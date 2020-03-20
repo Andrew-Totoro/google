@@ -51,3 +51,14 @@ a:hover{
     margin: 0 auto;
     padding-top: 105px;
 }
+
+.search{
+    display: block;
+    margin: 0 auto;
+    margin-top: 24px;
+    padding-right: 120px;
+    padding-left: 120px;
+    padding-bottom: 20px;
+    border-radius: 20px;
+    border-color: #b3b3b3;
+}
