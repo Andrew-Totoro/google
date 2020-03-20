@@ -17,7 +17,7 @@ a{
 
 .signin{
     background-color: #4285f4;
-    border: 1px solid #4285f4;
+    border: 1px solid ;
     border-radius: 2px;
     color: #FFF;
     font-weight: bold;
@@ -26,6 +26,10 @@ a{
     white-space: nowrap;
     padding-top: 5px;
     font-size: 13px;
+}
+
+.signin:hover{
+    border-color: #4285f5;
 }
 
 .links{
@@ -81,7 +85,11 @@ a:hover{
     margin-right: 10px;
     border: 1px solid #ebebeb;
     background-color: #ebebeb;
-    
+}
+
+.butoanele:hover{
+    background-color: white;
+    border-color: gray;
 }
 
 .footer{
